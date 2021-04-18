@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS TestTable 
 (
             OUTID VARCHAR(255) PRIMARY KEY,
-            zno_year INTEGER,
+            examYear INTEGER,
             Birth INTEGER,
             SEXTYPENAME VARCHAR(255),
             REGNAME VARCHAR(255),
