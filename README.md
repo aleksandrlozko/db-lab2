@@ -5,9 +5,9 @@
 
 ## Діаграми 
 
-# Логічна
+### Логічна
 ![Image alt](https://github.com/aleksandrlozko/db-lab2/blob/64221419b16514fba6cd3010c3632a3af971dd35/Logical_ERD.png)
 
-# Фізична
+### Фізична
 ![Image alt](https://github.com/aleksandrlozko/db-lab2/blob/bf47727c60fd872e02e03aa327b9b5b89adfeafd/PhysicalERD.png)
 
